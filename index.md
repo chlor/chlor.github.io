@@ -124,7 +124,7 @@ Vol. 247: Building Continents of Knowledge in Oceans of Data: The Future of Co-C
 ## Contact
 
 |Email | [christina.lohr@imise.uni-.leipzig](mailto:christina.lohr@uni-jena.de) |
-|Postal Address | Härtelstraße 16-18<br/> 04107 Chemnitz<br/> Germany |
+|Postal Address | Härtelstraße 16-18<br/> 04107 Leipzig<br/> Germany |
 |ORCID | [0000-0001-9889-162X](https://orcid.org/0000-0001-9889-162X) |
 |ResearcheGate| [https://www.researchgate.net/profile/Christina-Lohr-2](https://www.researchgate.net/profile/Christina-Lohr-2) |
 |Google Scholar| [https://scholar.google.com/citations?user=NEyGC4AAAAAJ](https://scholar.google.com/citations?user=NEyGC4AAAAAJ)|
