@@ -121,6 +121,13 @@ Vol. 247: Building Continents of Knowledge in Oceans of Data: The Future of Co-C
 
 * **Christina Lohr**: [Sprachmodelladaption von CMU Sphinx für den Einsatz in der Medizin](http://www.qucosa.de/fileadmin/data/qucosa/documents/9004/tagungsband_tucsis12.pdf). In: Studentensymposium Informatik Chemnitz 2012, Tagungsband zum 1. Studentensymposium Chemnitz vom 4. Juli 2012, July 04 2012, Germany, pp. 38-51.
 
+## Code
+
+* [https://github.com/JULIELab/jsyncc](https://github.com/JULIELab/jsyncc)
+* [https://github.com/JULIELab/ClinicalSurrogateGeneration](https://github.com/JULIELab/ClinicalSurrogateGeneration)
+* [https://github.com/dopameter/dopameter](https://github.com/dopameter/dopameter)
+* [https://github.com/chlor/brat2inception](https://github.com/chlor/brat2inception)
+
 ## Contact
 
 |Email | [christina.lohr@imise.uni-leipzig.de](mailto:christina.lohr@imise.uni-leipzig.de) |
