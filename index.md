@@ -111,7 +111,7 @@ Vol. 247: Building Continents of Knowledge in Oceans of Data: The Future of Co-C
 
 * **Christina Lohr** and Robert Herms: [A Corpus of German Clinical Reports for ICD and OPS-based Language Modeling](http://www.lrec-conf.org/proceedings/lrec2016/workshops/LREC2016Workshop-CLAW_Proceedings.pdf). In: Key-Sun Choi and Sejin Nam (Eds.): Proceedings of the Controlled Language Applications Workshop (CLAW) at LREC 2016, Portorož, Slovenia, may 28 2016, pp. 20-23.
 
-* Mike Ebersbach, Robert Herms, **Christina Lohr**, and Maximilian Eib: [Wrappers for Feature Subset Selection in CRF-based Clinical Information Extraction](http://ceur-ws.org/Vol-1609/16090069.pdf). In: Conference and Labs of the Evaluation Forum (CLEF), CLEF eHealth Lab, Évora, Portugal, September 05-08 2016.
+* Mike Ebersbach, Robert Herms, **Christina Lohr**, and Maximilian Eibl: [Wrappers for Feature Subset Selection in CRF-based Clinical Information Extraction](http://ceur-ws.org/Vol-1609/16090069.pdf). In: Conference and Labs of the Evaluation Forum (CLEF), CLEF eHealth Lab, Évora, Portugal, September 05-08 2016.
 
 ### 2014
 
@@ -127,6 +127,10 @@ Vol. 247: Building Continents of Knowledge in Oceans of Data: The Future of Co-C
 * [https://github.com/JULIELab/ClinicalSurrogateGeneration](https://github.com/JULIELab/ClinicalSurrogateGeneration)
 * [https://github.com/dopameter/dopameter](https://github.com/dopameter/dopameter)
 * [https://github.com/chlor/brat2inception](https://github.com/chlor/brat2inception)
+
+## Misc
+
+* MIE 2025 Workshop ["How to create a large distributed Non-English Medical Text Corpus (GeMTeX)"](https://doi.org/10.5281/zenodo.15430363) -- Martin Boeker, Justin Hofenbitzer, Markus Loeffler, **Christina Lohr**, Frank Meineke, and Andrea Riedel, 21. May 2025, Zenodo. https://doi.org/10.5281/zenodo.15430363
 
 ## Contact
 
