@@ -130,7 +130,12 @@ Vol. 247: Building Continents of Knowledge in Oceans of Data: The Future of Co-C
 
 ## Misc
 
-* MIE 2025 Workshop ["How to create a large distributed Non-English Medical Text Corpus (GeMTeX)"](https://doi.org/10.5281/zenodo.15430363) -- Martin Boeker, Justin Hofenbitzer, Markus Loeffler, **Christina Lohr**, Frank Meineke, and Andrea Riedel, 21. May 2025, Zenodo. https://doi.org/10.5281/zenodo.15430363
+* MIE 2025 Workshop ["How to create a large distributed Non-English Medical Text Corpus (GeMTeX)"](https://doi.org/10.5281/zenodo.15430363); Martin Boeker, Justin Hofenbitzer, Markus Loeffler, **Christina Lohr**, Frank Meineke, and Andrea Riedel, 21. May 2025, Glasgow, Zenodo. [https://doi.org/10.5281/zenodo.15430363](https://doi.org/10.5281/zenodo.15430363)
+
+* [5 Fragen an ... Christina Lohr & Luise Modersohn zum Projektstart: „Wir müssen eine gemeinsame Sprache finden“: GeMTeX_MII macht‘s möglich](https://www.smith.care/de/2023/06/29/5-fragen-an-start-gemtex/) / 
+  [5 Questions for ... 5 Questions for… Christina Lohr and Luise Modersohn about the start of the project: “We have to find a common language”: GeMTeX_MII makes it possible](https://www.smith.care/en/2023/06/29/5-questions-for-start-gemtex/), 29.06.2023
+
+* Talk @ CLT 2019 [Sprechstunde: Open Source und Medizin](https://chemnitzer.linux-tage.de/2019/de/programm/beitrag/308/); Luise Modersohn and Christina Lohr
 
 ## Contact
 
